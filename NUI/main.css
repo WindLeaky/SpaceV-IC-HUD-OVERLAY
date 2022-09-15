@@ -1,0 +1,168 @@
+
+
+body {
+    color: #dfe0e4;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+#Space {
+    font-size: 50px;
+    color: #fff;
+    float: right;
+    margin-top: 0px;
+    margin-right: 50px;
+}
+
+#V {
+    font-size: 60px;
+    color: #bb17ad;
+    float: right;
+    margin-top: -6px;
+    margin-right: -185px;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #bb17ad, 0 0 20px #bb17ad, 0 0 25px #bb17ad, 0 0 30px #bb17ad, 0 0 35px #bb17ad; 
+}
+
+#ID {
+    font-size: 20px;
+    color: purple;
+    float: right;
+    margin-top: 75px;
+    margin-right: -40px;
+}
+
+#ID2 {
+    font-size: 20px;
+    float: right;
+    margin-top: 75px;
+    margin-right: -80px;
+}
+
+#Player {
+    font-size: 20px;
+    float: right;
+    margin-top: 75px;
+    margin-right: -178px;
+}
+
+#Playericon {
+    font-size: 20px;
+    color: purple;
+    float: right;
+    margin-top: 80px;
+    margin-right: -135px;
+}
+
+#SaltyMikro {
+    font-size: 30px;
+    color: #fff;
+    float: right;
+    margin-top: 117px;
+    margin-right: -89px;
+}
+
+#SaltyDot1 {
+    font-size: 15px;
+    color: #bb17ad;
+    float: right;
+    margin-top: 124px;
+    margin-right: -110px;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 7px #bb17ad, 0 0 5px #bb17ad, 0 0 6px #bb17ad, 0 0 7px #bb17ad, 0 0 7px #bb17ad;
+}
+
+#SaltyDot2 {
+    font-size: 15px;
+    color: #bb17ad;
+    float: right;
+    margin-top: 124px;
+    margin-right: -130px;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 7px #bb17ad, 0 0 5px #bb17ad, 0 0 6px #bb17ad, 0 0 7px #bb17ad, 0 0 7px #bb17ad;
+}
+
+#SaltyDot3 {
+    font-size: 15px;
+    float: right;
+    margin-top: 124px;
+    margin-right: -150px;
+}
+
+#SaltyDot4 {
+    font-size: 15px;
+    float: right;
+    margin-top: 124px;
+    margin-right: -170px;
+}
+
+#money {
+    font-size: 7px;
+    float: right;
+    margin-top: 148px;
+    margin-right: -170px;
+}
+
+#bankmoney {
+    font-size: 6px;
+    float: right;
+    margin-top: 162px;
+    margin-right: -170px;
+}
+
+#bankicon {
+    font-size: 12px;
+    float: right;
+    margin-top: 172px;
+    margin-right: -186px;
+}
+
+#container2 {
+    color: white;
+}
+
+#plzicon {
+    font-size: 13px;
+    float: left;
+    margin-top: 14px;
+    margin-left: -45px;
+}
+
+#plz {
+    font-size: 14px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+#uhrzeit {
+    font-size: 14px;
+    margin-top: 25px;
+    margin-left: -33px;
+    float: left;
+}
+
+#uhrzeiticon {
+    font-size: 12px;
+    margin-top: 29px;
+    margin-left: -49px;
+    float: left;
+}
+
+#job2 {
+    font-size: 14px; 
+    margin-top: 40px;
+    margin-left: -35px;
+    float: left;
+}
+#job {
+    font-size: 7px; 
+    margin-top: 28px;
+    margin-left: -34px;
+    float: left;
+}
+
+#jobicon {
+    font-size: 12px;
+    margin-top: 42px;
+    margin-left: -178px;
+    float: left;
+}
